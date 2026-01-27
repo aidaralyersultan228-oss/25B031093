@@ -1,1 +1,1 @@
- 
+print("Esco bauyryma raqmet")
