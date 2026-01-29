@@ -1,1 +1,0 @@
-print("Esco bauyryma raqmet")

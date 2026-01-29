@@ -1,1 +1,0 @@
-print("Erasyl amal dos")
