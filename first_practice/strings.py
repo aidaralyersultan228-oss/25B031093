@@ -1,5 +1,3 @@
-# Strings examples (up to 5)
-
 # 1) String literals
 print("Hello")
 print('Hello')
@@ -23,4 +21,4 @@ print(msg.replace("world", "Python"))
 # 5) f-strings
 name = "Alice"
 age = 18
-print(f"{name} is {age} years old")
+print(f"{name} is {age} years old") #formatting

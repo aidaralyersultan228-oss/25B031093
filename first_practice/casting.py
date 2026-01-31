@@ -1,5 +1,3 @@
-# Casting examples (up to 5)
-
 # 1) int casting
 x = int(1)
 y = int(2.8)

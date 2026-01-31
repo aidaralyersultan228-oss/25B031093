@@ -1,5 +1,3 @@
-# Data Types examples (up to 5)
-
 # 1) Basic types
 a = "text"      # str
 b = 10          # int

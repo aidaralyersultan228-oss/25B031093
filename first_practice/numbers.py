@@ -16,7 +16,7 @@ import random
 print(random.randrange(1, 10))
 
 # 4) Rounding
-print(round(3.14159, 2))
+print(round(3.14159, 2)) #0 1 2 3 4 #5 6 7 8 9 
 
 # 5) Basic operators
 print(7 // 2)  # integer division

@@ -1,20 +1,15 @@
-# Getting Started examples (up to 5)
+# 1) SyntaxError
+# print("Hello"        # SyntaxError: invalid syntax (missing ')')
 
-# 1) Print output
-print("Python is running!")
+# 2) IndentationError
+# if True:
+# print("Hi")          # IndentationError: expected an indented block
 
-# 2) Indentation matters
-if True:
-    print("This is indented correctly")
+# 3) NameError
+# print(x)             # NameError: name 'x' is not defined
 
-# 3) Multiple statements
-x = 5
-y = 7
-print("Sum:", x + y)
+# 4) TypeError
+# print("5" + 5)       # TypeError: can only concatenate str (not "int") to str
 
-# 4) Using input (uncomment to try)
-# name = input("Enter your name: ")
-# print("Hi,", name)
-
-# 5) Basic error example (commented)
-# print(1 / 0)  # ZeroDivisionError
+# 5) ZeroDivisionError
+# print(1 / 0)         # ZeroDivisionError: division by zero

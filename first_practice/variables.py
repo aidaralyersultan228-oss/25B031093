@@ -1,5 +1,3 @@
-# Variables examples (up to 5)
-
 # 1) Assign value
 x = 5
 print(x)
